@@ -1,23 +1,41 @@
 body {
-    font-family: "Garamond", Georgia, serif;
-    font-size: 16pt;
     margin: 1in auto 1in auto;
     width: min(30em, calc(100% - 64px));
-    line-height: 1.35;
 }
 
-.options li a {
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+.title {
+    font-family: "Roboto", sans-serif;
+    font-size: 40pt;
+    font-weight: 300;
+    margin: 0;
 }
 
-.options li {
-    margin-top: 16px;
-    margin-bottom: 16px;
+.subtitle {
+    font-family: "Roboto", sans-serif;
+    font-size: 16pt;
+    font-weight: 300;
+    margin-top: 8px;
+    margin-bottom: 32px;
 }
 
-.options li::marker {
-    content: "\25B7 ";
+p {
+    font-family: "Roboto", sans-serif;
+    font-size: 14pt;
 }
 
+table {
+    border-collapse: collapse;
+    margin-bottom: 32px;
+}
 
+td, th {
+    border: 1px solid black;
+    padding: 8px;
+    font-family: "Roboto", sans-serif;
+    font-size: 14pt;
+}
+
+tr:nth-child(even) {
+    background-color: #eef;
+}
 
