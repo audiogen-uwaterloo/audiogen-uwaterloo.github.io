@@ -13,6 +13,7 @@ subtitle: Audio samples
 | Frog and Toad                               | <audio controls src="https://git.uwaterloo.ca/se390/public-audio-samples/-/package_files/2223/download"></audio> | [feedback](https://docs.google.com/forms/d/e/1FAIpQLSfrhAaLNMd79FhmFvIJecQAEzbtsiQCji4fCmFkT1jm-H4q0g/viewform?usp=pp_url&entry.919551825=Frog+and+Toad)                   |
 | The Trials of Apollo, chapter 3, 2024-02-29 | <audio controls src="https://git.uwaterloo.ca/se390/public-audio-samples/-/package_files/2224/download"></audio> |                                                                                                                                                                            |
 | Romeo and Juliet, 2024-02-29                | <audio controls src="https://git.uwaterloo.ca/se390/public-audio-samples/-/package_files/2220/download"></audio> |                                                                                                                                                                            |
+| Harry Potter, 2024-02-29                    | <audio controls src="https://git.uwaterloo.ca/se390/public-audio-samples/-/package_files/2225/download"></audio> |
 
 Yours, the Audiogen team.
 
