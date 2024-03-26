@@ -3,6 +3,22 @@ title: Audiogen
 subtitle: Audio samples
 ---
 
+## Symposium Day - March 26, 2024
+
+| Title                                   | Audio                                                                                                            | Feedback |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------- |
+| The Hidden Oracle, Chapter 3            | <audio controls src="https://git.uwaterloo.ca/se390/public-audio-samples/-/package_files/2237/download"></audio> |          |
+| Homer's The Iliad, Book 1 (entire book) | <audio controls src="https://git.uwaterloo.ca/se390/public-audio-samples/-/package_files/2235/download"></audio> |          |
+| Harry Potter                            | <audio controls src="https://git.uwaterloo.ca/se390/public-audio-samples/-/package_files/2232/download"></audio> |          |
+| Romeo and Juliet, Act I Scene I         | <audio controls src="https://git.uwaterloo.ca/se390/public-audio-samples/-/package_files/2234/download"></audio> |          |
+| UWaterloo EngPlay Winter 2023, Scene 2  | <audio controls src="https://git.uwaterloo.ca/se390/public-audio-samples/-/package_files/2239/download"></audio> |          |
+| UWaterloo EngPlay Winter 2023, Scene 4  | <audio controls src="https://git.uwaterloo.ca/se390/public-audio-samples/-/package_files/2240/download"></audio> |          |
+| UWaterloo EngPlay Winter 2023, Scene 7  | <audio controls src="https://git.uwaterloo.ca/se390/public-audio-samples/-/package_files/2241/download"></audio> |          |
+| Emma by Jane Austen                     | <audio controls src="https://git.uwaterloo.ca/se390/public-audio-samples/-/package_files/2238/download"></audio> |          |
+| The Hidden Oracle, Chapter 1            | <audio controls src="https://git.uwaterloo.ca/se390/public-audio-samples/-/package_files/2236/download"></audio> |          |
+
+## Pre-March
+
 | Title                                       | Audio                                                                                                            | Feedback                                                                                                                                                                   |
 | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Harry Potter                                | <audio controls src="samples/harry-potter.wav"></audio>                                                          | [feedback](https://docs.google.com/forms/d/e/1FAIpQLSfrhAaLNMd79FhmFvIJecQAEzbtsiQCji4fCmFkT1jm-H4q0g/viewform?usp=pp_url&entry.919551825=Harry+Potter)                    |
